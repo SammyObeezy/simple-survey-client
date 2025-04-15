@@ -40,7 +40,7 @@ npm start
 This client connects to a backend API that handles survey data (questions, options, and responses). Make sure to configure the API URL in your `.env` file if running locally:
 
 ```env
-REACT_APP_API_URL=http://localhost:8000/api
+REACT_APP_API_URL=http://localhost:5000
 ```
 
 ## 📁 Project Structure
